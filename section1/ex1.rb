@@ -1,0 +1,10 @@
+variable = "random string"
+puts "Hello World"
+puts "Hell Again"
+puts "I Like Typing This"
+puts "This is fun"
+puts "Yay printing"
+puts "Id much rather you 'not'."
+puts 'I "said" do not touch this'
+puts "another line\nanother line(same command)"
+puts "#{variable}"
