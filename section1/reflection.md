@@ -8,28 +8,41 @@ I think I need to start taking better care of my brain by getting exercise and e
 
 
 1. How would you print the string `"Hello World!"` to the terminal?
+```ruby
 p "Hello World"
+```
 
 1. What character is used to indicate comments in a ruby file?
+```ruby
 # Comment Here
+```
 
 1. Explain the difference between an integer and a float?
 An integer is a whole number. A float is a decimal number
 
 1. In the space below, create a variable `animal` that holds the string `"zebra"`
+```ruby
 animal = "zebra"
+```
 
 1. How would you print the string `"zebra"` using the variable that you created above?
+```ruby
 p animal
+```
 
 1. What is interpolation? Use interpolation to print a sentence using the variable `animal`.
-interpolation is a way to display a piece of data in a string.
+```ruby
+# interpolation is a way to display a piece of data in a string.
 p "The #{animal} is a cool animal"
+```
 
 1. What method is used to get input from a user?
+```ruby
 var_name = gets.chomp
+```
 
 1. Name and describe two common string methods:
-I don't know what this is asking.
-string1 = "hello"
-string2 = 'hello again'
+```ruby
+string.size #returns size of string
+string[0, 4] #uses only a certain index range of a string
+```
