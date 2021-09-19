@@ -8,24 +8,36 @@ def print_name
   p "Severus Snape"
 end
 
-print_name
+print_name()
 
 # Write a method that takes a name as an argument and prints it:
 def print_name(name)
-  # YOUR CODE HERE
+  puts name
 end
 
 print_name("Albus Dumbledore")
 
-# Write a method that takes in 2 numbers as arguments and prints 
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
-# YOUR CODE HERE
+def sum(num1, num2)
+  return num1 + num2
+end
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+a = 5
+b = 7
+puts sum(4, 6)
+puts sum(5 * 7, 6)
+puts sum(a, b)
 
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
+def make_sentence (height_inches, age)
+  return "I am #{height_inches} inches tall and #{age} years old"
+end
+
+ puts make_sentence(50, 5)
 
 #-------------------
 # PART 3: Naming is Hard
@@ -38,4 +50,5 @@ print_name("Albus Dumbledore")
 # What did you name each parameter, and why?
 
 # EXPLAIN:
-
+# I named the function 'make_sentence' because that is what it does and its also returning a string (a sentence is a string)
+# I gave it parameters of height_inches and age because it is using that criteria to make a sentence
