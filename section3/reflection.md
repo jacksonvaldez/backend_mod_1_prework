@@ -10,8 +10,10 @@
 
 1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 ```ruby
-# What I Do: I don't get bothered when I don't understand something because I know that it is normal and I can always learn it.
-# What I Don't Do: I don't follow the 'M' in SMART Goals. I don't have a way to measure my goals, I just blindly follow them. I think this is something I need to integrate.
+# What I Do: I don't get bothered when I don't understand something because
+# I know that it is normal and I can always learn it.
+# What I Don't Do: I don't follow the 'M' in SMART Goals. I don't have a way to
+# measure my goals, I just blindly follow them. I think this is something I need to integrate.
 ```
 
 1. What is a Hash, and how is it different from an Array?
