@@ -3,9 +3,9 @@
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
 ```ruby
 # 1. The term "S.M.A.R.T" Goals was brand new to me. I thought this was a really clever
-way to set a goal, and I am now going to start integrating it into my life as well.
+# way to set a goal, and I am now going to start integrating it into my life as well.
 # 2. I also resonated with the fact that when being asked to do something you have no idea
-how to do, it is okay because you can work towards achieving it and learn along the way
+# how to do, it is okay because you can work towards achieving it and learn along the way
 ```
 
 1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
